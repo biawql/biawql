@@ -1,12 +1,11 @@
-## Boas vindas ao meu perfil 👻
+## Boas vindas ao meu perfil 👾
 
 - Meu nome é Bianca
-- Estou estudando na Alura
-- Estou me desenvolvendo na linguagem JavaScript
+- Estou estudando Engenharia de Computação
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo 📫
 
-00001114879046sp@al.educacao.sp.gov.br
+biancabaglie18@gmail.com
 
 ![](https://media.tenor.com/1Z_PQ1Zlq8wAAAAi/marceline-gangnam-style.gif)
