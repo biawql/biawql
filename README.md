@@ -6,5 +6,5 @@
 
 ### Você pode entrar em contato comigo 📫
 
-#### email: biancabaglie18@gmail.com
+#### Email: biancabaglie18@gmail.com
 
